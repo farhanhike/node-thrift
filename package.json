@@ -1,0 +1,11 @@
+{
+  "name": "thrift-test",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node --max-old-space-size=2048 ./bin/www"
+  },
+  "dependencies": {
+    "thrift": "^0.10.0"
+  }
+}
